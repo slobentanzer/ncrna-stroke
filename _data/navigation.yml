@@ -10,7 +10,7 @@
   side: left
   dropdown:
   - title: "miRs and tRF seeds, by module, whole network"
-    url: "/de/ms_mod_all/index.html"
+    url: "https://rndm4000.github.io/ncrna-stroke/de/ms_mod_all/index.html"
   - title: "Dropdown Menu 2"
     url: "#"
   - title: "Dropdown Menu 3"
