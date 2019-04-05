@@ -1,0 +1,37 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Start
+  url: "/"
+  side: left
+
+- title: "Differential Expression"
+  url: "/de/"
+  side: left
+  dropdown:
+  - title: "miRs and tRF seeds, by module, whole network"
+    url: "/de/ms_mod_all/index.html"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+- title: "Single correlating module clusters"
+  url: "/clusters/"
+  side: left
+  dropdown:
+  - title: "1-1"
+    url: "/clusters/1-1/index.html"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+
+#
+#   Navigation to the right › side: right
+#
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
