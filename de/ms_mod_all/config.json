@@ -8,7 +8,7 @@
     "text": "SL"
   },
   "text": {
-    "more": "Long description",
+    "more": "Network of differentially expressed small RNAs and genes 2 days after stroke in 49 patients of the PREDICT study. Color of the node denotes WGCNA module, size of node denotes node degree (incoming and outgoing connections). Move with click and drag, zoom with scroll wheel, click on nodes for subgraph isolation and more information. Return to full network by pressing X in the upper right panel.",
     "intro": "Short",
     "title": "5-4"
   },
