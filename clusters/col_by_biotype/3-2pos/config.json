@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Interactions",
-    "colorLabel": "Modules",
+    "colorLabel": "Biotypes",
     "nodeLabel": "Genes, miRs, tRFs, tRF seeds, GO terms"
   },
   "features": {
