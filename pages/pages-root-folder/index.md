@@ -9,19 +9,19 @@ header:
   image_fullwidth: "bg.png"
 widget1:
   title: "DE network"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'https://rndm4000.github.io/ncrna-stroke/clusters/col_by_module/de_seed_mir/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Text'
+  text: 'Network of differentially expressed short non-coding RNAs and genes in blood of stroke patients'
 widget2:
+  title: "Figure 3"
+  url: 'https://rndm4000.github.io/ncrna-stroke/clusters/col_by_module/3-4neg/index.html'
+  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  text: 'Complete subnetwork 3-4 negative, from Publication Figure 3b'
+widget3:
   title: "Steelblue and magenta network"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
-widget3:
-  title: "Figure 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Explanation'
 #
 # Use the call for action to show a button on the frontpage
 #
