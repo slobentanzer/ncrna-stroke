@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: bg.png
+  image_fullwidth: "bg.png"
 widget1:
   title: "DE network"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'

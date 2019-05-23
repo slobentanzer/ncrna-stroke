@@ -5,8 +5,8 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://localhost:4000'
-urlimg: 'http://localhost:4000/images/'
+url: 'http://127.0.0.1:4000/ncrna-stroke/'
+urlimg: 'http://127.0.0.1:4000/ncrna-stroke/images/'
 
 
 sass:
