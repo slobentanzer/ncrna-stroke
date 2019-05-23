@@ -9,13 +9,14 @@
   url: /de/
   side: left
   dropdown:
-  - title: "miRs and tRF seeds, by module, whole network"
-    url: /de/ms_mod_all/index.html
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
-
+  - title: "Only miR- and tRF seed-interactions, by module"
+    url: /clusters/col_by_module/de_seed_mir/index.html
+  - title: "Full network, by module"
+    url: /clusters/col_by_module/de_full/index.html
+  - title: "Only miR- and tRF seed-interactions, by biotype"
+    url: /clusters/col_by_biotype/de_seed_mir/index.html
+  - title: "Full network, by biotype"
+    url: /clusters/col_by_biotype/de_full/index.html
 - title: "Long RNA cluster 1"
   url: "/clusters/"
   side: left
