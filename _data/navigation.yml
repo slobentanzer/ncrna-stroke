@@ -17,6 +17,8 @@
     url: /clusters/col_by_biotype/de_seed_mir/index.html
   - title: "Full network, by biotype"
     url: /clusters/col_by_biotype/de_full/index.html
+  - title: "Intersection of PREDICT and Tiedt et al, by biotype"
+    url: /clusters/col_by_biotype/de_tiedt/index.html
 - title: "Long RNA cluster 1"
   url: "/clusters/"
   side: left
