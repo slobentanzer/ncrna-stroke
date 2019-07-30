@@ -10,12 +10,12 @@ header:
 widget1:
   title: "DE network"
   url: 'https://slobentanzer.github.io/ncrna-stroke/clusters/col_by_module/de_seed_mir/index.html'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=DE'
   text: 'Network of differentially expressed short non-coding RNAs and genes in blood of stroke patients'
 widget2:
   title: "Figure 3"
   url: 'https://slobentanzer.github.io/ncrna-stroke/clusters/col_by_module/3-4neg/index.html'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Figure 3'
   text: 'Complete subnetwork 3-4 negative, from Publication Figure 3b'
 widget3:
   title: "Steelblue and magenta network"
